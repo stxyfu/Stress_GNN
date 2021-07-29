@@ -1,1 +1,1 @@
-# FEM_GNN
+# Stress_GNN
