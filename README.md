@@ -9,3 +9,6 @@ test_validate.py - Draw predicted phyiscal field to validate the results;<br />
 The dataset has been uploaded to: <br />
 Link:https://terabox.com/s/1fTr4fWd0VMD_3yUF9jfIvQ  <br />
 Password:4p7i
+
+Preprint on Arxiv: <br />
+https://arxiv.org/abs/2108.13509?context=cs.LG
